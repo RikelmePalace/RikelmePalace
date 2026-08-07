@@ -47,7 +47,7 @@ Rikelme Lopes
 
 ### 🌐 Cadastro de Atletas
 
-Sistema Web desenvolvido para cadastro e gerenciamento de atletas.
+Sistema Web desenvolvido para SIMULAR o cadastro e gerenciamento de atletas.
 
 ### 🎵 Beef Settings
 
