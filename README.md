@@ -1,9 +1,5 @@
-<!-- ============================ -->
-<!--           BANNER            -->
-<!-- ============================ -->
-
 <p align="center">
-<img src="ChatGPT Image 7 de ago. de 2026, 00_04_15.png" width="100%">
+<img src="file:///C:/Users/BabyBeef/Downloads/Banner.png" width="100%">
 </p>
 
 <h1 align="center">
