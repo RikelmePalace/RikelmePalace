@@ -1,5 +1,5 @@
 <p align="center">
-<img src="file:///C:/Users/BabyBeef/Downloads/Banner.png" width="100%">
+<img src="[file:///C:/Users/BabyBeef/Downloads/Banner.png](https://github.com/RikelmePalace/RikelmePalace/blob/main/Banner.png)" width="100%">
 </p>
 
 <h1 align="center">
