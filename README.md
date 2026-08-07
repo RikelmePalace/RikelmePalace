@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[file:///C:/Users/BabyBeef/Downloads/Banner.png](https://github.com/RikelmePalace/RikelmePalace/blob/main/Banner.png)" width="100%">
+<img src="Banner.png" width="100%">
 </p>
 
 <h1 align="center">
@@ -11,29 +11,6 @@ Rikelme Lopes
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1200&color=00FF66&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Always+learning+new+technologies;Welcome+to+my+GitHub!" />
 
 </p>
-
----
-
-# 👨‍💻 About Me
-
-```txt
-💻 Full Stack Developer
-
-📍 São Paulo, Brazil
-
-🎯 Focus:
-• Web Development
-• Back-end
-• Automation
-• Desktop Applications
-
-📚 Currently learning
-• JavaScript
-• C#
-• Node.js
-
-🚀 Passionate about building useful and modern software.
-```
 
 ---
 
