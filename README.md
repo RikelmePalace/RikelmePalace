@@ -1,17 +1,123 @@
-<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/51fd199f-5dd8-474a-a8b2-9e01ce572634" />
-<br>
-<br>
+<!-- ============================ -->
+<!--           BANNER            -->
+<!-- ============================ -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0AA400&center=true&width=435&lines=Hey!+I+am+Rikelme+Lopes;Welcome)](https://git.io/typing-svg)
+<p align="center">
+<img src="ChatGPT Image 7 de ago. de 2026, 00_04_15.png" width="100%">
+</p>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<h1 align="center">
+Rikelme Lopes
+</h1>
 
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1200&color=00FF66&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Always+learning+new+technologies;Welcome+to+my+GitHub!" />
+
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+```txt
+💻 Full Stack Developer
+
+📍 São Paulo, Brazil
+
+🎯 Focus:
+• Web Development
+• Back-end
+• Automation
+• Desktop Applications
+
+📚 Currently learning
+• JavaScript
+• C#
+• Node.js
+
+🚀 Passionate about building useful and modern software.
+```
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=RikelmePalace&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🌐 Cadastro de Atletas
+
+Sistema Web desenvolvido para cadastro e gerenciamento de atletas.
+
+### 🎵 Beef Settings
+
+Aplicação criada para facilitar configurações e automatizar tarefas.
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RikelmePalace&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+
+# 🌎 Connect with me
+
+<p align="center">
+
+<a href="mailto:rikelmedoleme@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rikelme-lopes-896535382/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/RikelmePalace">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=RikelmePalace&color=00ff66&style=for-the-badge"/>
+
+</p>
